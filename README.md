@@ -36,7 +36,56 @@ The following roles act as standalone user interface widgets or as part of large
 * tabpanel
 * textbox
 * treeitem
+#### The following roles act as composite user interface widgets. These roles typically act as containers that manage other, contained widgets.
+* combobox
+* grid
+* listbox
+* menu
+* menubar
+* radiogroup
+* tablist
+* tree
+* treegrid
 #### Document Structure Roles
+The following roles describe structures that organize content in a page. Document structures are not usually interactive.
+* application
+* article
+* blockquote
+* caption
+* cell
+* columnheader
+* definition
+* deletion
+* directory
+* document
+* emphasis
+* feed
+figure
+* generic
+* group
+* heading
+* img
+* insertion
+* list
+* listitem
+* math
+* meter
+* none
+* note
+* paragraph
+* presentation
+* row
+* rowgroup
+* rowheader
+* separator (when not focusable)
+* strong
+* subscript
+* superscript
+* table
+* term
+* time
+* toolbar
+* tooltip
 #### Landmark Roles
 #### Live Region Roles
 #### Window Roles
