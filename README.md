@@ -87,5 +87,23 @@ figure
 * toolbar
 * tooltip
 #### Landmark Roles
+Landmark are use for overall page structue and navigaton
+* banner
+* complementary
+* contentinfo
+* form
+* main
+* navigation
+* region
+* search
 #### Live Region Roles
+The following roles are live regions and may be modified by live region attributes.
+* alert
+* log
+* marquee
+* status
+* timer
 #### Window Roles
+The following roles act as windows within the browser or application.
+* alertdialog
+* dialog
