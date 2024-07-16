@@ -106,4 +106,4 @@ The following roles are live regions and may be modified by live region attribut
 #### Window Roles
 The following roles act as windows within the browser or application.
 * alertdialog
-* dialog
+* dialog.
